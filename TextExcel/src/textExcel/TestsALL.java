@@ -3,7 +3,7 @@ package textExcel;
 //*******************************************************
 //DO NOT MODIFY THIS FILE!!!
 //*******************************************************
-
+// This is lame
 import static org.junit.Assert.*;
 
 import java.util.Arrays;
@@ -126,7 +126,7 @@ public class TestsALL
             SpreadsheetLocation loc = new SpreadsheetLocation("L20");
             assertEquals("SpreadsheetLocation column", loc.getCol(), 11);
             assertEquals("SpreadsheetLocation row", loc.getRow(), 19);
-
+// What does this do?
             loc = new SpreadsheetLocation("D5");
             assertEquals("SpreadsheetLocation column", loc.getCol(), 3);
             assertEquals("SpreadsheetLocation row", loc.getRow(), 4);
