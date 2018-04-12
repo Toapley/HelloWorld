@@ -3,7 +3,7 @@ package textExcel;
 //*******************************************************
 //DO NOT MODIFY THIS FILE!!!
 //*******************************************************
-// This is lame
+// This is lameasdfasdfasdfasdfasdfasdfasd
 import static org.junit.Assert.*;
 
 import java.util.Arrays;
@@ -20,7 +20,7 @@ import org.junit.runners.Suite;
     TestsALL.ExtraCreditCommandErrors.class,
     TestsALL.ExtraCreditCommandHistory.class,
 })
-
+// I think
 public class TestsALL
 {
     public static class TestLocation implements Location
