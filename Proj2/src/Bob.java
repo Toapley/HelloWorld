@@ -13,6 +13,7 @@ public class Bob {
 		// What happend hered?
 		// I added this...
 		// This is nice...
+		// Wow, this has been added.
 
 	}
 	// This is a hotfix.
