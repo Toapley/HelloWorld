@@ -7,6 +7,12 @@ public class Bob {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Again, I do work here, yes?
+		
+		//This is a test
+		
+		// What happend hered?
+		// I added this...
+		// This is nice...
 
 	}
 	// This is a hotfix.
