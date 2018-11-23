@@ -14,6 +14,7 @@ public class Bob {
 		// I added this...
 		// This is nice...
 		// Wow, this has been added.
+		// This should be in CP1Test only.
 
 	}
 	// This is a hotfix.
