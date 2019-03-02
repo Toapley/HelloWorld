@@ -5,7 +5,7 @@ public class Bubba {
 
 	public static void main(String[] args) {
 		
-		
+		//Bad deal
 		
 		// TODO Auto-generated method stub
 
