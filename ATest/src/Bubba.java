@@ -1,11 +1,30 @@
+import java.util.Arrays;
 
 public class Bubba {
-	
-	
+	//I dont' want this.
+	public static int[][] copyArray(int[][] original) {
+		/* Missing code 1 */
+		int[][] copy = new int[original.length][original[0].length];
+
+
+		for (int i = 0; i < original.length; i++) {
+			for (int j = 0; j < original[0].length; j++) {
+				copy[j][i] = original[j][i];
+			}
+		}
+		return copy;
+	}
+
 
 	public static void main(String[] args) {
 		
-		//Bad deal
+		int[][] a = {{1,2,3},{4,5,6}},b;
+		b = copyArray(a);
+		
+		
+		System.out.println(Arrays.deepToString(b));
+		
+		
 		
 		// TODO Auto-generated method stub
 
